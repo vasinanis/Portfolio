@@ -1,0 +1,31 @@
+p {
+    font-family: "Open Sans", 'Times New Roman', Times, serif;
+    text-align: center;
+    }
+
+
+    
+h1,h2{
+    color:yellowgreen;
+    background-color:darkblue;
+}
+
+body{
+    background-color: lightblue;
+    
+}
+ul{
+    background-color: orange; 
+}
+
+ul li:hover {
+    background-color: darkblue;
+}
+
+#monos{
+    color: gray;
+}
+
+#diplos{
+    color: yellowgreen;
+}
